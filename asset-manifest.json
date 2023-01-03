@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task_1_8/static/css/main.ded04fac.css",
+    "main.js": "/task_1_8/static/js/main.bc5348b8.js",
+    "static/media/Person.png": "/task_1_8/static/media/Person.e0ba3cd35b2e55835a2f.png",
+    "static/media/phone.jpg": "/task_1_8/static/media/phone.ebdd75511df0a8f5256e.jpg",
+    "static/media/phoneMore.jpg": "/task_1_8/static/media/phoneMore.ee49a195b03f5fb55c76.jpg",
+    "index.html": "/task_1_8/index.html",
+    "main.ded04fac.css.map": "/task_1_8/static/css/main.ded04fac.css.map",
+    "main.bc5348b8.js.map": "/task_1_8/static/js/main.bc5348b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded04fac.css",
+    "static/js/main.bc5348b8.js"
+  ]
+}
